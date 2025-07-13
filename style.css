@@ -1,0 +1,63 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12pt;
+    background-color: rgb(48, 49, 46);
+}
+
+.corpo {
+    background-color: white;
+    width: 60%;
+    margin: 0 auto;
+    display: block;
+    padding: 20px;
+}
+
+h1 {
+    justify-content: center;
+    display: flex;
+    color: #5c5c61;
+}
+
+h2 {
+    justify-content: center;
+    display: flex;
+    color: #9999ff;
+}
+
+.bio {
+    color: #808080;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 10pt;
+    font-weight: bold;
+}
+
+span {
+    font-weight: bold;
+}
+
+h3 {
+    color: #6666cc;
+}
+
+.div1 {
+    text-align: center;
+    padding: 10px;
+}
+
+.div1 img {
+    width: 70%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+}
+
+.div2 {
+    text-align: right;
+    padding-top: 10px;
+    padding-left: 10px;
+}
+
+.div2 img {
+    width: 30%;
+    height: auto;
+}
